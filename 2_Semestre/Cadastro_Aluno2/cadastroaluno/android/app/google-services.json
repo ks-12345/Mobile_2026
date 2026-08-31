@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "102904387828",
+    "project_id": "cadastroaluno-a70e7",
+    "storage_bucket": "cadastroaluno-a70e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102904387828:android:28192cf51d6929a47fe6a1",
+        "android_client_info": {
+          "package_name": "cadastro.aluno26"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFBofTZvUCEDO5PBOghpCTSFPIIyyLLKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102904387828:android:2c8c30b21c910dfe7fe6a1",
+        "android_client_info": {
+          "package_name": "com.example.cadastroaluno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFBofTZvUCEDO5PBOghpCTSFPIIyyLLKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
