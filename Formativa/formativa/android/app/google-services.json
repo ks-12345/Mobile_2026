@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101130345261",
+    "project_id": "formativamobile",
+    "storage_bucket": "formativamobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101130345261:android:a49c110261513ef52c11a4",
+        "android_client_info": {
+          "package_name": "com.example.formativa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKYkpszTKlBCNelA__YVsRPurK0obmZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
